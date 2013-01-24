@@ -1,0 +1,5 @@
+.jqhatenablock-item,
+.jqhatenablock-score {
+    position: absolute;
+    text-align: center;
+}
